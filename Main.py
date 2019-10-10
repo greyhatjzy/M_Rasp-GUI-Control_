@@ -20,7 +20,7 @@ def selectPath():
 
 if __name__=='__main__':
 
-    os.chdir('/home/jzy/Desktop/M_Rasp-GUI+Control_')
+    os.chdir('/home/jzy/Desktop/M_Rasp-GUI-Control_')
 
     root=tk.Tk()
     root.title('应用程序窗口')  # 窗口标题

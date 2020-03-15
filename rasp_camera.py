@@ -1,7 +1,7 @@
 import cv2
 
 cap = cv2.VideoCapture(0)
-# 摄像头设置不了分辨率
+
 cap.set(3,1920)
 cap.set(4,1080)
 while cap.isOpened():
